@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm Vincent 李旻宸
 
 ## 🚀 About Me
-I'm a passionate **Full-Stack Developer** and **DevOps Enthusiast** with expertise in building scalable web applications and infrastructure automation. With experience in **ReactJS, Node.js, Docker, Kubernetes, Terraform**, and more, I enjoy solving complex problems and crafting seamless digital experiences.
+I’m an enthusiastic Full-Stack Developer with an interest in DevOps. I enjoy building scalable web applications and exploring infrastructure automation. With experience in ReactJS, Node.js, Docker, Kubernetes, Terraform, and more, I love solving complex problems and creating smooth digital experiences.
 
 🔹 **MBA in Information Management** – National Taiwan University (2022-2024)  
 🔹 **BA in Political Science** – National Taiwan University (2018-2022)  
