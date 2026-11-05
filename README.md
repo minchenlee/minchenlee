@@ -2,7 +2,7 @@
 
 Software Engineer · Full-Stack · Cloud · AI-native development
 
-I'm a Taiwan-based software engineer focused on cloud systems, developer tools, and practical AI-assisted engineering workflows. At Trend Micro, I work across full-stack product surfaces, AWS infrastructure, and enterprise cloud-security systems. Outside work, I build local-first AI and developer tools in Rust, TypeScript, Tauri, SvelteKit, and React.
+I'm a Taiwan-based software engineer focused on cloud systems, developer tools, and practical AI-assisted engineering workflows. I work across full-stack product surfaces and AWS infrastructure. Outside work, I build local-first AI and developer tools in Rust, TypeScript, Tauri, SvelteKit, and React.
 
 My current focus:
 
