@@ -6,9 +6,9 @@ I'm a Taiwan-based software engineer focused on cloud systems, developer tools, 
 
 My current focus:
 
-- Shipping full-stack and cloud features across multi-region AWS systems.
-- Turning repeatable engineering workflows into Claude Code / Codex skills.
-- Building open-source tools for AI coding operations, desktop workflows, and native document tooling.
+- Building tools for working alongside coding agents: [c9watch](https://github.com/minchenlee/c9watch) shows what a waiting agent needs and what it did while you were away; [Flockbook](https://github.com/minchenlee/flockbook) lets you read and reply to all your agents in one Mac app.
+- Shipping [rmdv](https://github.com/minchenlee/rmdv), a native Markdown reader with calm, Notion-like typography.
+- Turning repeatable engineering workflows into Claude Code and Codex skills, and running several agents on one codebase without losing track.
 
 ## Selected Work
 
